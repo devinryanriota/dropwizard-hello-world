@@ -1,0 +1,1 @@
+web: java -jar target/team-1.0-SNAPSHOT.jar server config.yml
